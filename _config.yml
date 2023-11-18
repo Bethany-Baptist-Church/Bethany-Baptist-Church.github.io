@@ -62,13 +62,15 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "Rev. Dr. Victor Lujetic - Interim Pastor"
+  name   : | 
+    "Rev. Dr. Victor Lujetic"
+    "Interim Pastor"
   #avatar : "/assets/images/bio-photo.jpg"
   bio    : | 
-    "<b>Worship Service<b/>"
-    "Every Sunday at 10 a.m."
-    "<b>Communion</b>"
-    "First Sunday of the month."
+    "<b>Worship Service<b/>\n"
+    "Every Sunday at 10 a.m.\n"
+    "<b>Communion</b>\n"
+    "First Sunday of the month.\n"
     "<b>Address</b>"
     "382 Centrepointe Drive, Ottawa ON, K2G 6A1"
     "<b>Office Hours</b>"
