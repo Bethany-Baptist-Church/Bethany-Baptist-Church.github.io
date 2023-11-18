@@ -4,8 +4,19 @@ main:
   - title: "Rentals"
     url: /rentals/
   - title: "Sermons"
-    url: https://bbc.librarika.com/
+    url: /sermons/
   - title: "Calendar"
     url: https://outlook.office365.com/calendar/published/7a6bd098afe5481d8c7605f63233a628@bethanybaptistchurch.ca/f366746685cc43b0ac89a459ca0c2c7213696291827036140265/calendar.html
   - title: "Contact"
-    url: https://outlook.office365.com/calendar/published/7a6bd098afe5481d8c7605f63233a628@bethanybaptistchurch.ca/f366746685cc43b0ac89a459ca0c2c7213696291827036140265/calendar.html
+    url: /contact/
+
+about:
+  - title: About
+    url: /about/
+    children:
+      - title: "Beliefs & Covenant"
+        url: /about/beliefs-covenant
+      - title: "Believer's Baptism"
+        url: /about/believers-baptism/
+      - title: "Bethany Governance"
+        url: /about/governance/
