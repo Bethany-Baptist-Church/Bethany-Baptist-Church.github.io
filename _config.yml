@@ -26,6 +26,7 @@ description: >- # this means to ignore newlines until "baseurl:"
 # github_username: username
 minimal_mistakes_skin: default
 search: true
+breadcrumbs: true
 
 # Build settings
 markdown: kramdown
@@ -80,16 +81,10 @@ author:
 
 footer:
   links:
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
-
+    - label: "CBOQ"
+      icon: "fab fa-fw fa-church"
+      url: "https://baptist.ca/"
+      
 defaults:
   # _posts
   - scope:
@@ -109,6 +104,7 @@ defaults:
     values:
       layout: single
       author_profile: false
+      show_date: true
 
 category_archive:
   type: liquid
