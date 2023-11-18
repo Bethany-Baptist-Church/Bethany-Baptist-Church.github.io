@@ -79,14 +79,12 @@ author:
     * 9:00 a.m. to 1:00 p.m.
     * Monday to Friday
     * Closed public holidays
-    * **Phone:** 613-224-5611
-    * **Email:** secretary@bethanybaptistchurch.ca
     
   links:
-    - label: "Phone"
+    - label: "613-224-5611"
       icon: "fas fa-phone-alt"
-      url: "613-224-5611"
-    - label: "Email"
+      url: ""
+    - label: "secretary@bethanybaptistchurch.ca"
       icon: "fas fa-envelope"
       url: "mailto:secretary@bethanybaptistchurch.ca"
     - label: "Online Service"
@@ -94,7 +92,7 @@ author:
       url: "https://teams.microsoft.com/l/meetup-join/19%3ameeting_Njk1OTI1OWItZDM2ZS00YTA2LWFlM2YtZTljOTdlMjk3Zjhj%40thread.v2/0?context=%7b%22Tid%22%3a%2291dbf89d-5733-4c10-9fd0-bb7af6bbd6e0%22%2c%22Oid%22%3a%22f59b97ba-ec01-4e5b-b1c7-4be47255ccc5%22%7d"
     - label: "Phone Service: Call 343-803-4984 Conference ID: 723 226 019#"
       icon: "fas fa-signal-stream"
-      #url: "Call 343-803-4984 Conference ID: 723 226 019#"
+      url: ""
 
 footer:
   links:
