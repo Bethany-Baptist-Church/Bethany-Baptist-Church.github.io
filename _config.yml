@@ -62,9 +62,11 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "First Lastname"
-  avatar : "/assets/images/bio-photo.jpg"
-  bio    : "My awesome biography constrained to a sentence or two goes here."
+  name   : "Worship Service"
+  #avatar : "/assets/images/bio-photo.jpg"
+  bio    : | 
+    "Every Sunday at 10 a.m."
+    "<b>Communion</b>"
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
