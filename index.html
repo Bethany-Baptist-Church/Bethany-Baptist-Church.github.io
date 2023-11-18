@@ -9,9 +9,9 @@ header:
   overlay_filter: "0.5"
   overlay_image: /assets/images/home-banner.jpg
   actions:
-    - label: "Download"
-      url: "https://github.com/mmistakes/minimal-mistakes/"
-  caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
+    - label: "Online Service"
+      url: "https://teams.microsoft.com/l/meetup-join/19%3ameeting_Njk1OTI1OWItZDM2ZS00YTA2LWFlM2YtZTljOTdlMjk3Zjhj%40thread.v2/0?context=%7b%22Tid%22%3a%2291dbf89d-5733-4c10-9fd0-bb7af6bbd6e0%22%2c%22Oid%22%3a%22f59b97ba-ec01-4e5b-b1c7-4be47255ccc5%22%7d"
+  caption: ""
 excerpt: "Bacon ipsum dolor sit amet salami ham hock ham, hamburger corned beef short ribs kielbasa biltong t-bone drumstick tri-tip tail sirloin pork chop."
 intro:
   - excerpt: 'Nullam suscipit et nam, tellus velit pellentesque at malesuada, enim eaque. Quis nulla, netus tempor in diam gravida tincidunt, *proin faucibus* voluptate felis id sollicitudin. Centered with `type="center"`'
@@ -56,3 +56,8 @@ feature_row4:
     btn_label: "Read More"
     btn_class: "btn--primary"
 ---
+
+{% include feature_row id="intro" type="center" %} {% include feature_row %} {%
+include feature_row id="feature_row2" type="left" %} {% include feature_row
+id="feature_row3" type="right" %} {% include feature_row id="feature_row4"
+type="center" %}
