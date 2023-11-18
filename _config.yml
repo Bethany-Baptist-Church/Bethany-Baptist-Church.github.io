@@ -13,14 +13,17 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: MM
-email:
+title: Bethany Baptist Church
+email: secretary@bethanybaptistchurch.ca
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
-twitter_username: username
-github_username: username
+  Welcome to Bethany Baptist Church located at 382 Centrepointe Drive, Ottawa ON, K2G 6A1!
+  Discover a welcoming community dedicated to worship, fellowship, and spiritual growth.
+  Our church is committed to spreading the love of Christ and serving the Ottawa community.
+  Join us for inspiring worship services, engaging activities, and meaningful connections.
+  Explore our website to learn more about our mission, ministries, and upcoming events.
+  Bethany Baptist Church - where faith, community, and compassion come together.
+# twitter_username: username
+# github_username: username
 minimal_mistakes_skin: default
 search: true
 
@@ -31,7 +34,7 @@ remote_theme: mmistakes/minimal-mistakes
 permalink: /:categories/:title/
 paginate: 5 # amount of posts to show
 paginate_path: /page:num/
-timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: America/Toronto
 
 include:
   - _pages
@@ -94,9 +97,9 @@ defaults:
       type: posts
     values:
       layout: single
-      author_profile: true
-      read_time: true
-      comments: true
+      author_profile: false
+      read_time: false
+      comments: false
       share: true
       related: true
   # _pages
@@ -105,7 +108,7 @@ defaults:
       type: pages
     values:
       layout: single
-      author_profile: true
+      author_profile: false
 
 category_archive:
   type: liquid
