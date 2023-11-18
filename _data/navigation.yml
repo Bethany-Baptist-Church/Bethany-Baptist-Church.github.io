@@ -14,6 +14,8 @@ about:
   - title: About
     url: /about/
     children:
+      - title: "History"
+        url: /about/history/
       - title: "Beliefs & Covenant"
         url: /about/beliefs-covenant
       - title: "Believer's Baptism"
