@@ -66,12 +66,12 @@ author:
     Rev. Dr. Victor Lujetic
   #avatar : "/assets/images/bio-photo.jpg"
   bio: | 
-    **Worship Service**
+    # Worship Service
       * Every Sunday at 10 a.m.
-    **Communion**
+    #Communion
       * First Sunday of the month.
-    **Address**
-    382 Centrepointe Drive, Ottawa ON, K2G 6A1
+    # Address
+    * 382 Centrepointe Drive, Ottawa ON, K2G 6A1
     **Office Hours**
     9:00 a.m. to 1:00 p.m.
     Monday to Friday
@@ -81,7 +81,7 @@ author:
     
   links:
     - label: "Website"
-      icon: "fas fa-fw fa-link"
+      icon: "fa-solid fa-phone"
       url: "https://"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
