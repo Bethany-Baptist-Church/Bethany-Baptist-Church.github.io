@@ -62,11 +62,22 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "Worship Service"
+  name   : "Rev. Dr. Victor Lujetic - Interim Pastor"
   #avatar : "/assets/images/bio-photo.jpg"
   bio    : | 
+    "<b>Worship Service<b/>"
     "Every Sunday at 10 a.m."
     "<b>Communion</b>"
+    "First Sunday of the month."
+    "<b>Address</b>"
+    "382 Centrepointe Drive, Ottawa ON, K2G 6A1"
+    "<b>Office Hours</b>"
+    "9:00 a.m. to 1:00 p.m."
+    "Monday to Friday"
+    "Closed public holidays"
+    "<b>Phone:</b> 613-224-5611"
+    "<b>Email:</b> secretary@bethanybaptistchurch.ca"
+    
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
