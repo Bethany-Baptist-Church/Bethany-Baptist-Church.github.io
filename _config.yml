@@ -82,7 +82,7 @@ author:
 footer:
   links:
     - label: "CBOQ"
-      icon: "fab fa-fw fa-church"
+      icon: "fas fa-church"
       url: "https://baptist.ca/"
       
 defaults:
