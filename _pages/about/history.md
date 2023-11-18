@@ -1,5 +1,5 @@
 ---
-permalink: /about/history
+permalink: /about/history/
 title: "Bethany History"
 layout: single
 sidebar:
