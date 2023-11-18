@@ -62,31 +62,30 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name: |
-    Rev. Dr. Victor Lujetic
-  avatar: "/assets/images/bio-photo.jpg"
-  bio: |
-    **Worship Service**
-    * Every Sunday at 10 a.m.
-
-    **Communion**
-    * First Sunday of the month.
-
-    **Address**
-    * 382 Centrepointe Drive, Ottawa ON, K2G 6A1
-
-    **Office Hours**
-    * 9:00 a.m. to 1:00 p.m.
-    * Monday to Friday
-    * Closed public holidays
-
+  name             : "Your Name"
+  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  bio              : "I am an **amazing** person."
+  location         : "Somewhere"
+  email            :
   links:
-    - label: "613-224-5611"
-      icon: "fas fa-phone-alt"
-      url: ""
-    - label: "secretary@bethanybaptistchurch.ca"
-      icon: "fas fa-envelope"
-      url: "mailto:secretary@bethanybaptistchurch.ca"
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      # url: "mailto:your.name@email.com"
+    - label: "Website"
+      icon: "fas fa-fw fa-link"
+      # url: "https://your-website.com"
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      # url: "https://twitter.com/"
+    - label: "Facebook"
+      icon: "fab fa-fw fa-facebook-square"
+      # url: "https://facebook.com/"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      # url: "https://github.com/"
+    - label: "Instagram"
+      icon: "fab fa-fw fa-instagram"
+      # url: "https://instagram.com/"
 
 footer:
   links:

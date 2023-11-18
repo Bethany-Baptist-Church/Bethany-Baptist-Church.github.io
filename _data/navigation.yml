@@ -1,9 +1,11 @@
 main:
-  - title: "Posts"
-    url: /posts/
-  - title: "Categories"
-    url: /categories/
-  - title: "Tags"
-    url: /tags/
   - title: "About"
     url: /about/
+  - title: "Rentals"
+    url: /rentals/
+  - title: "Sermons"
+    url: https://bbc.librarika.com/
+  - title: "Calendar"
+    url: https://outlook.office365.com/calendar/published/7a6bd098afe5481d8c7605f63233a628@bethanybaptistchurch.ca/f366746685cc43b0ac89a459ca0c2c7213696291827036140265/calendar.html
+  - title: "Contact"
+    url: https://outlook.office365.com/calendar/published/7a6bd098afe5481d8c7605f63233a628@bethanybaptistchurch.ca/f366746685cc43b0ac89a459ca0c2c7213696291827036140265/calendar.html
