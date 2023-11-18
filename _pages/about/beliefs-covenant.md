@@ -1,5 +1,5 @@
 ---
-permalink: /about/beliefs-covenant
+permalink: /about/beliefs-covenant/
 title: "Beliefs & Covenant"
 layout: single
 sidebar:

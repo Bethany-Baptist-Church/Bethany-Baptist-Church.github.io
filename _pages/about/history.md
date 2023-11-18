@@ -17,7 +17,7 @@ sidebar:
 History is the foundation of the future. This brief overview of key moments and milestones in our history is presented in recognition of the faith and dedication of all those who came before us, and to provide the inspiration for us to rebuild their vision, look to the future, keep the faith, and continue their legacy.
 {: .text-justify}
 
-![](https://bethany-baptist-church.github.io/assets/images/about-history1.jpg "")
+!(https://bethany-baptist-church.github.io/assets/images/about-history1.jpg)
 
 We understand our church is built upon the called-out people rather than any historic building or denomination. We believe in the Priesthood of all Believers, upholding the principles of individual responsibility, soul liberty, and competency before God to interpret scripture under the guidance of the Holy Spirit.
 {: .text-justify}

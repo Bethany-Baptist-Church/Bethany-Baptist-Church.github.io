@@ -1,5 +1,5 @@
 ---
-permalink: /about/believers-baptism
+permalink: /about/believers-baptism/
 title: "Believer's Baptism"
 layout: single
 sidebar:

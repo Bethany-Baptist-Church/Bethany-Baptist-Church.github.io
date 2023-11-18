@@ -1,5 +1,5 @@
 ---
-permalink: /about/beliefs-covenant
+permalink: /about/governance/
 title: "Bethany Governance"
 layout: single
 sidebar:
