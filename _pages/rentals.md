@@ -37,10 +37,7 @@ Non-members and outside groups may also rent our facilities, subject to the cond
 Event space availability is subject to other event commitments made by Bethany Baptist Church.
 {: .text-justify}
 
-For more information and rates download our [Rental Brochure](https://bethany-baptist-church.github.io/assets/Rental-Brochure-2023-Colour.pdf).
-{: .text-justify}
-
-Rental enquiries, availability, and bookings are made through the [Office Secretary](mailto:secretary@bethanybaptistchurch.ca).
+For more information and rates, availability, and bookings contact our [Office Secretary](mailto:secretary@bethanybaptistchurch.ca).
 {: .text-justify}
 
 {% include gallery caption="" %}
