@@ -4,21 +4,39 @@ title: "Meet our Pastor"
 layout: single
 ---
 
-![Rev. Dr. Victor Lujetic](https://bethany-baptist-church.github.io/assets/images/feature-pastor.jpg "Rev. Dr. Victor Lujetic")
+![Rev. Dr. Victor Lujetic](https://bethany-baptist-church.github.io/assets/images/feature-pastor.jpg "Risan-joper Santos")
 
-Greetings in the name of Jesus Christ!
+Welcome to Bethany Baptist Church!
 {: .text-justify}
 
-My name is Victor Lujetic. I am an American by birth and a Canadian by choice, and I’ve been a Christian since I was 16. I am also the Interim Pastor here at Bethany Baptist Church. Bethany was the village where Lazarus and his sisters Mary and Martha lived. Jesus often visited Bethany and always found a warm welcome in their home. Here at Bethany Baptist Church, you will also find a warm welcome among the people of this congregation. You will also find warm smiles, friendly faces, vibrant worship, uplifting music, and weekly messages that relate the Bible to everyday life.
+My name is Risan-joper Santos. I was born in Brazil and have proudly made Canada my home. I’ve been a Christian since I was 11 and am honoured to serve as the Interim Pastor here at Bethany Baptist Church. At Bethany, you will experience a warm and friendly congregation —a living church that serves a loving God. Whether it's through vibrant worship, uplifting music, or weekly messages that connect the Bible to everyday life, you’ll find a community eager to welcome you with open hearts.
+
 {: .text-justify}
 
-Some people like to shop around for a church to call home by visiting several churches before making a decision. If you are one of those people, then I encourage you to do something important. Pray as you shop. While you’re shopping around, pray and ask the Lord which church He wants you to join. Believe me, if you do that, the Lord will make His will crystal clear to you. Please feel free to contact the church office at <a href='tel:+16132245611'>613-224-5611</a> or email me at [pastor@bethanybaptistchurch.ca](mailto:pastor@bethanybaptistchurch.ca) if you have any questions. If you are looking for a new church home where you can feel like family, look no further.
-{: .text-justify}
-
-Come and check us out on Sundays at 10:00 for our morning worship service, and on the first Sunday of each month when we celebrate the Lord’s Supper. You’ll be glad you did!
-{: .text-justify}
+If you have any questions, feel free to reach out to our church office at 613-224-5611 or email me directly at risanjoper@gmail.com. If you're looking for a church home where you can feel like part of the family, we invite you to visit us. Join us on Sundays at 10:00 AM for our morning worship service, and on the first Sunday of each month, we gather to celebrate the Lord’s Supper. We look forward to welcoming you!
 
 # Background
+{: .text-justify}
 
-Rev. Dr. Victor Lujetic was born in Pittsburgh, Pennsylvania. Raised a Roman Catholic, he was converted to Christ at age 16 while reading the four Gospels for the first time, and he received Believer’s Baptism at Congressional Heights Baptist Church in Potomac, Maryland, in 1974. He graduated with a Bachelor of Arts in Music from the University of Maryland in 1975. He was ordained in 1978 while serving as Youth Director at Congressional Heights Baptist. In 1981, Rev. Lujetic moved to Canada to become Director of Christian Education and Youth at Bells Corners United Church in Ottawa, where he met Sally. They married in 1984. After serving for a year as Director of Christian Development and Youth at Grantham United Church in St. Catharines, he and Sally returned to Congressional Heights Baptist in 1985, where he served as Associate Minister until 1987. After graduating with a Master of Divinity with Biblical Languages from Southeastern Baptist Theological Seminary in 1988, Rev. Lujetic served for six years as Pastor of Pinnacle Road Baptist Church in Rochester, New York. While there, he attained a Doctor of Ministry from Southeastern Baptist Seminary in 1992. In August 1994, Dr. Lujetic and Sally returned to Canada, where he served for five years as Pastor of Agincourt Baptist Church in Scarborough. On June 5, 1998, he took his Oath of Canadian Citizenship and is now a dual citizen. In October 1999, Dr. Lujetic and Sally moved to Cambridge, where he served for 22 years as Pastor of King Street Baptist Church, attaining a Ph.D. in Apologetics and Theology from Trinity Seminary in 2010. Dr. Lujetic retired in August 2021 after 43 years of ordained ministry. Victor and Sally and their two daughters now reside in Ottawa, living just a short distance from Bethany Baptist Church.
+Rev. Risan-joper Santos was born in Morros, Maranhão, Brazil, in 1958. At the age of 11, his family began attending a Baptist church, and three years later, he moved to the capital, São Luís, where he became actively involved at the First Baptist Church. It was within this church that he underwent a transformative experience, embracing a renewed faith and receiving baptism on November 30, 1975. It was here that he engaged in various church activities, serving as a teen leader, youth worship leader, and evangelism.
+
+In 1979, in response to God's call, he moved to Recife, Pernambuco, to study theology at the Baptist Theological Seminary of Northeast Brazil. He later became a professor at this seminary, teaching until 2005. He was ordained as a pastor on June 13, 1981, and served in three different churches, holding various position within the Baptist denomination.
+
+In 2005, he moved to Vancouver, Canada, to pursue a Master’s Degree in Counseling Psychology at Trinity Western University. A year later, he accepted an invitation from Eastview Baptist Church in Ottawa to serve as their lead pastor, a position he held for over twelve years. During his time there, he launched several community outreach initiatives, including a Multicultural Party, Annual BBQ, Summer Mission with a team from the U.S., and a Soccer Camp for children from low-income families.
+
+After his tenure at Eastview, he went to Brazil and joined the pastoral team at Calhau Baptist Church in São Luís, serving from September 2021 to May 2022. In this role, he contributed to preaching, teaching, counseling, and leading the church’s bilingual services in Portuguese and English.
+
+As a clinical psychologist in Brazil, Rev. Santos has helped individuals manage emotional and behavioral issues, providing coaching for personal and social development. He also served as a consultant to the Pastors Association of Recife, offering psychological support to pastors coping with the pressures of ministry.
+
+Rev. Santos has volunteered in hospital chaplaincy, including at the Royal Hospital and the Civic Hospital in Ottawa, offering support to patients, families, and individuals with disabilities. He also was a member of the Ecumenical Chaplaincy Board from 2010-2014.
+
+His educational background includes a B.A. in Theology from the North of Brazil Baptist Theological Seminary (1983), a B.A. in Philosophy (1991), and a B.A. in Psychology (1995) from the Catholic University of Pernambuco. He also holds a Master’s Degree in Theology (2002) and completed a year of studies in the Master’s program in Counseling Psychology at Trinity Western University in Vancouver.
+
+Rev. Risan has two daughters. His eldest, Karen, lives in Ottawa with her husband, André, and their three children, Logan, Luke, and Oliver. His youngest daughter, Kelen, resides in Toronto.
+
+Book Publication:
+{: .text-justify}
+
+Por que As Pessoas se Casam? – O Sentido Existencial da Relação Homem-Mulher (Why People Get Married? – The Existential Meaning of Man-Woman Relationships), 2003.
+
 {: .text-justify}
