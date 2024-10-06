@@ -89,6 +89,9 @@ author:
 
 footer:
   links:
+    - label: "OBA"
+      icon: "fas fa-church"
+      url: "http://ottawabaptist.ca/"
     - label: "CBOQ"
       icon: "fas fa-church"
       url: "https://baptist.ca/"
