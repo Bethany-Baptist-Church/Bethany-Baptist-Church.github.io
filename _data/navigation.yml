@@ -6,7 +6,7 @@ main:
   - title: "Sermons"
     url: /sermons/
   - title: "Calendar"
-    url: /calendar/
+    url: https://outlook.office365.com/owa/calendar/7a6bd098afe5481d8c7605f63233a628@bethanybaptistchurch.ca/4a10f0e2203a46bc9d2b2405eb4d7cdb16446734959434918565/calendar.html
   - title: "Donate"
     url: /donate/
   - title: "Contact"
