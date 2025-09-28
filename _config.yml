@@ -125,6 +125,11 @@ defaults:
 #  type: liquid
 #  path: /tags/
 
+markup:
+  goldmark:
+    renderer:
+      unsafe: true
+
 analytics:
   provider: "google-gtag"
   google:
