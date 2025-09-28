@@ -8,7 +8,7 @@ sidebar:
 
 ## Background
 
-{{< youtube D-dBv-Ns67Q >}}
+<iframe width="560" height="315" src="https://www.youtube.com/embed/D-dBv-Ns67Q?si=cIpM-O7GQVNv6PF9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 Bethany Baptist Church was formed in 1952 when a small group of believers decided to form their own Baptist Church in their local community. For the next 40 years we held services in several different locations, until finally settling into a brand new church building in 1992 at our current location at 382 Centrepointe Drive.
 {: .text-justify}
