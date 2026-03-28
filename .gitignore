@@ -1,4 +1,18 @@
 _site
 .sass-cache
+.jekyll-cache
 .jekyll-metadata
 Gemfile.lock
+
+# Node
+node_modules/
+public/
+package-lock.json
+
+# Ruby/Bundler
+.bundle/
+vendor/
+
+# OS
+.DS_Store
+Thumbs.db
