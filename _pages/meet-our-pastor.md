@@ -2,6 +2,7 @@
 permalink: /meet-our-pastor/
 title: "Meet our Pastor"
 layout: single
+classes: wide
 ---
 
 ![Rev. Dr. Victor Lujetic](https://bethany-baptist-church.github.io/assets/images/feature-pastor.jpg "Risan-joper Santos")

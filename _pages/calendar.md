@@ -2,6 +2,7 @@
 permalink: /calendar/
 title: "Calendar"
 layout: single
+classes: wide
 ---
 
 <iframe id="open-web-calendar" 

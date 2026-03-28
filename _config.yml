@@ -95,6 +95,9 @@ footer:
     - label: "CBOQ"
       icon: "fas fa-church"
       url: "https://baptist.ca/"
+    - label: "CHRI"
+      icon: "fas fa-radio"
+      url: "https://www.chri.ca/home/"
 
 defaults:
   # _posts

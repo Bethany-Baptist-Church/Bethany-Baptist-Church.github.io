@@ -2,6 +2,7 @@
 permalink: /contact/
 title: "Contact Us"
 layout: single
+classes: wide
 ---
 
 ## Address

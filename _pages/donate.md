@@ -2,6 +2,7 @@
 permalink: /donate/
 title: "Donate"
 layout: single
+classes: wide
 ---
 
 Support Our Ministry

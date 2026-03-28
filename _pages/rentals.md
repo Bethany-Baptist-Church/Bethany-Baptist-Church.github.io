@@ -2,6 +2,7 @@
 permalink: /rentals/
 title: "Event Spaces & Rentals"
 layout: single
+classes: wide
 gallery:
   - url: /assets/images/rentals-gymnasium.jpg
     image_path: /assets/images/rentals-gymnasium.jpg
@@ -50,7 +51,7 @@ Bethany Baptist Church has three disability parking spots, bathroom facilities o
 * Bethany has a strict no-alcohol policy.
 * The rates listed below apply to non-members and outside user groups only.
 * Bethany Members are requested to make a donation in lieu of rental fees.
-* Outside user groups must show proof of liability insurance of $2 million.
+* Outside user groups must show proof of liability insurance of $5 million.
 * Bethany Baptist Church does NOT rent facilities for:
   * Birthday, anniversary, bridal, or bachelor/bachelorette parties
   * ANY type of political event or activity
