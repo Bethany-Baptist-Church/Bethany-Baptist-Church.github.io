@@ -55,13 +55,12 @@ classes: wide
   <!-- Map -->
   <div style="flex: 2 1 400px; min-height: 380px; border-radius: 6px; overflow: hidden; box-shadow: 0 2px 8px rgba(0,0,0,0.1);">
     <iframe
-      src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2803.6!2d-75.7589!3d45.3477!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4cce056b8e4e4e4b%3A0x1!2s382+Centrepointe+Dr%2C+Ottawa%2C+ON+K2G+6A1!5e0!3m2!1sen!2sca!4v1"
+      src="https://www.openstreetmap.org/export/embed.html?bbox=-75.784%2C45.336%2C-75.764%2C45.356&layer=mapnik&marker=45.3462%2C-75.7741"
       width="100%"
       height="100%"
       style="border: 0; display: block; min-height: 380px;"
       allowfullscreen=""
-      loading="lazy"
-      referrerpolicy="no-referrer-when-downgrade">
+      loading="lazy">
     </iframe>
   </div>
 
